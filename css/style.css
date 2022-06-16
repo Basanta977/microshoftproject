@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background: pink;
+    width: 100%;
+}
+.container{
+    background: white;
+    width: 1000px;
+    margin: auto;
+    height: 2000px;
+}
+
+
+.l{float: left;} .r{float: right;} .cc{clear: both;}
+ul li{display: inline; margin: 10px; 
+}
+
+.ll{margin-left: 20px; padding: 15px; }
+.box{background: #E7E7E7; width: 100%; height: 400px; 
+    background: url(https://i.ibb.co/zGSDGCL/slide1.png) no-repeat center center/cover;
+}
+ 
+.ppp{
+    padding: 30px 50px 30px 15px;
+}
+
+.box > p{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+   padding:2em;
+   color:black;
+}
+.box > h2{
+    text-align: center;
+    padding-top: 230px;
+}
+  .box1 {
+      background: black;
+      color: white;
+      width: 120px;
+      height: 40px;
+     text-align: center;
+     margin: 1px auto;
+     padding: 10px;
+      
+  }
+  .box3{
+      background:white; 
+      color: black;
+      width: 24%; 
+      height: 300px;
+      margin: 10px 5px;
+      
+  }
+  .box3 > img {
+      width: 100%;
+  }
+  .img{
+    
+        width: 100%;
+        height: 350px;
+        background: url(https://i.ibb.co/tBJGPD9/xbox.png) no-repeat center center/cover;
+        margin-bottom: 10px;
+    
+  }
+    .bgg{
+        background: #E7E7E7; width: 100%; height: 400px; 
+        background: url(https://i.ibb.co/72cgtsz/carbon.jpg) no-repeat center center/cover;
+        color: white;
+        padding: 120px 30px ;
+        
+    }
+    
+    
